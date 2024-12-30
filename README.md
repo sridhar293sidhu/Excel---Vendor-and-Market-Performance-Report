@@ -3,14 +3,14 @@
 This project analyzes sales performance for AtliQ Hardware by examining customer, market, and vendor data for the years 2019, 2020, and 2021. The objective is to assess overall market and vendor performance, identify key growth trends, and highlight areas for improvement.
 _________________________________________________
 # About the Dataset
-1.	Structure: 
-    A. Dimension Tables: 
+1.	Structure:
+   A. Dimension Tables:
         Customer: Includes customer-specific details for performance tracking.
         Market: Geographical breakdown of sales performance by region and country.
         Product: Category and product-level insights to support trend analysis.
-    B. Fact Table: 
-        Monthly Sales: Quantitative data on revenue across different time periods.
-2.	Tools & Methods: 
+    B. Fact Table:
+  	    Monthly Sales: Quantitative data on revenue across different time periods.
+3.	Tools & Methods: 
     A. Power Query: Used to transform and clean the data.
     B. Power Pivot: Enabled data modeling and relationship building between dimension and fact tables.
     C. Conditional Formatting: Applied for easy visualization of sales trends and target achievements.
